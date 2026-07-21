@@ -1,0 +1,14 @@
+android-safebrowsing.google.com
+android.com
+app-measurement.com
+feedback-pa.googleapis.com
+findmydevice-pa.googleapis.com
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
+firebaselogging.googleapis.com
+footprints-pa.googleapis.com
+g.whatsapp.net
+go.co
+google.com
+play.google.com
+safebrowsing.googleapis.com
