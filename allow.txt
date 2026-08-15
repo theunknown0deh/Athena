@@ -1,6 +1,8 @@
 android-safebrowsing.google.com
 android.com
+api.grupofleury.com.br
 app-measurement.com
+dns.quad9.net
 feedback-pa.googleapis.com
 findmydevice-pa.googleapis.com
 firebase-settings.crashlytics.com
@@ -10,5 +12,7 @@ footprints-pa.googleapis.com
 g.whatsapp.net
 go.co
 google.com
+googleapis.com
 play.google.com
 safebrowsing.googleapis.com
+userlocation.googleapis.com
