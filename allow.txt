@@ -13,6 +13,7 @@ g.whatsapp.net
 go.co
 google.com
 googleapis.com
+instantmessaging-pa-jms-us.googleapis.com
 locationhistory-pa.googleapis.com
 play.google.com
 safebrowsing.googleapis.com
