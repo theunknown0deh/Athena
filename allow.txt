@@ -3,6 +3,7 @@ android.com
 api.grupofleury.com.br
 app.chat.global.xiaomi.net
 app-measurement.com
+clarity.ms
 crashlyticsreports-pa.googleapis.com
 dns.quad9.net
 feedback-pa.googleapis.com
@@ -11,6 +12,8 @@ firebase-settings.crashlytics.com
 firebaseinstallations.googleapis.com
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
+footprints-pa.googleapis.com
+g-fallback.whatsapp.net
 g.whatsapp.net
 go.co
 google.com
