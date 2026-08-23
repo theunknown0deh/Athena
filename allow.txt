@@ -25,6 +25,7 @@ geo.yahoo.com
 geomobileservices-pa.googleapis.com
 go.co
 google.com
+googleadservices.com
 googleapis.com
 graph.instagram.com
 graph-fallback.instagram.com
