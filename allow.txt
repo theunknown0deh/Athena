@@ -7,6 +7,7 @@ api.grupofleury.com.br
 api.mercadopago.com
 app.chat.global.xiaomi.net
 app-measurement.com
+appsgrowthpromo-pa.googleapis.com
 assets.adobedtm.com
 clarity.ms
 crashlyticsreports-pa.googleapis.com
