@@ -6,7 +6,6 @@ android.com
 api.grupofleury.com.br
 api.mercadopago.com
 app.chat.global.xiaomi.net
-app-measurement.com
 appsgrowthpromo-pa.googleapis.com
 assets.adobedtm.com
 clarity.ms
@@ -22,16 +21,12 @@ firebaseinstallations.googleapis.com
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
 footprints-pa.googleapis.com
-g-fallback.whatsapp.net
-g.whatsapp.net
 geo.yahoo.com
 geomobileservices-pa.googleapis.com
 go.co
 google.com
 googleadservices.com
 googleapis.com
-graph.instagram.com
-graph-fallback.instagram.com
 hirensbootcd.org
 i.paypal.com
 in.appcenter.ms
