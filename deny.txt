@@ -2,6 +2,15 @@ icq.com
 datadoghq.com
 app-measurement.com
 graph.facebook.com
+graph-fallback.facebook.com
 graph.instagram.com
-graph.whatsapp.com
+graph-fallback.instagram.com
+graph.whatsapp.net
+graph-fallback.whatsapp.net
 whatismyip.akamai.com
+g-fallback.facebook.com
+g.facebook.com
+g-fallback.instagram.com
+g.instagram.com
+g-fallback.whatsapp.net
+g.whatsapp.net
