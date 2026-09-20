@@ -1,1 +1,6 @@
 icq.com
+datadoghq.com
+app-measurement.com graph.facebook.com
+graph.instagram.com
+graph.whatsapp.com
+whatismyip.akamai.com
